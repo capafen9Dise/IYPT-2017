@@ -1,21 +1,23 @@
 
 
-Aşağıdaki tabloya kendi sınıfınızı, öğrenci ismini ve numaranızı yazınız. 
 
-Sınıf | Öğrenci İsmi  | Numara
--------|----------------|--------
-11-D   | Ahmet Çalışkan | 412
-11-D   | Ceyda Cesaretli | 111
 
-#  (buraya proje başlığını yazınız)
-## Özet
-Buraya projenin özetini yazınız. Özet kısa ve anlaşılır olmalıdır.  Proje özeti yaklaşık 150-250 kelime arasında olmalıdır. Özeti okuyan, proje hakkında doğru bir fikre sahip olabilmelidir. Proje özetinde; projenin amacı ve kullanılacak yöntemler özetlenecektir. 
+9-D  | Sima Nur Beyaz   | 606
+9-D  | Zeynep Ece Kiraz | 615
+9-D  | Ayşe İkbal Çal   | 597
+
+BLOWING BUBBLES
+Kabarcıkları üfleme deneyimizde bir sabun filmi üflenirken durumların nasıl değiştiğine bakacağız.Sabun filmi üflenirken kabarcık oluşabilir bir süre sonra bu kabarcık patlayabilir veya var olmaya devam edebilir.Bu durumun nelere bağlı olduğunu araştıracağız.Bu olayı seçme nedenimiz ise günlük hayatta çokça karşılaştığımız bir olay olması.Lunaparkta,oyun alanlarında hatta evde,banyoda,bulaşık yıkarken dahi bu olayla karşılaşabiliriz.Bu kadar günlük hayatta olan bir şey daha çok ilgimizi çekti ve ona açıklama getirmek bize daha mantıklı geldi.İlk başta sorumuzda bilmediğimiz terimleri araştırdık.Daha sonra olayı etkileyen faktörleri araştırdık,şu şekilde:
+Eğer bir kabarcık oluşturmak istersek bazı durumlar etkili olur mesela üfleme hızımız,mesafemiz etkilidir.Kabarcığın sağlamlığı ve dayanma gücü içine karıştırılan maddeler,ortam sıcaklığı,karışım sıcaklığı;baloncuk miktarı ve baloncuğun havada kalma süresi gibi olayları etkiler.Bu etkenleri deney ve gözlem yaparak ortaya çıkardığımızda elimizde sonuçlar olacaktır.
+
 
 ## Kaynakçalar  
-Aşağıda kaynakçalara yer verilecektir. Konunuzla ilgili en az 3 tane referans bulunuz. Bulduğunuz  kaynakçaları (25MB'den az olmak kaydıyla ve video hariç) github hesabınıza kaydediniz. Github hesabınıza belgeleri nasıl yükleyeceğiniz öğrenmek için [buraya bakınız.](https://help.github.com/articles/adding-a-file-to-a-repository/). Kaynakçalar belli bir düzen içinde yazılacaktır. Örnekler için [buraya](http://www.tubitak.gov.tr/tr/duyuru/bibliyografik-verilerin-duzenlenmesi) bakabilirsiniz. Aşağıdaki referans örneklerini kendi bulduğunuz referanslarla değiştiriniz. IYPT ile ilgili kaynakçaları bulmak için [buraya](http://kit.ilyam.org/) bakabilirsiniz. Ya da daha önce çözülmüş IYPT sorularının kaynakçalarını kullanabilirsiniz. 
 
- 1. Huth, E. J. 1986. “Guidelines on authorship of medical papers”, Annals of Internal Medicine, 104, 269-274.
- 2. Clark, C. “Physicists Crack Another Piece of The Glass Puzzle”. R&D Magazine.
-http://www.rdmag.com/news/2012/10/physicists-crack-another-piece-glass-p...
-Son erişim tarihi: 15 Aralık 2012.
+1.https://groups.google.com/forum/#!topic/merakediyorum/AcIvbvXfOl0
+2.http://kimyaca.com/ziplayan-baloncuk/
+3.http://iypt.blog.ir/post/Blowing%20Bubbles
+4.http://www.tdk.gov.tr/index.php?option=com_bts&katagori1=veritbn&kelimesec=255165
+5.https://www.sciencenewsforstudents.org/article/blowing-bubbles-science
+6.https://physics.aps.org/articles/v9/21
 
+Not:4.kaynakçamızda parametrenin anlamına baktık.
